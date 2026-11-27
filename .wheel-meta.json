@@ -1,0 +1,22 @@
+{
+  "wheel_id": 977,
+  "structure": "umbrella",
+  "slug": "melbournewestkitchenrenovation-109",
+  "project": "kitchen-renovations-melbourne-west-questions-to-ask-337eaf03012",
+  "parent_t1_ref": "melbournewestkitchenrenovation-154",
+  "node_role": "feeder",
+  "money_target": "melbournewestkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne west questions to ask",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-west-questions-to-ask-337eaf03012/",
+  "tier": "T2",
+  "writeback_nonce": "cf6612b0aa2b83f0",
+  "links": [
+    {
+      "target_url": "http://kitchen-renovations-melbourne-west-how-to-choose-d154b1e9757113.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "kitchen renovations melbourne west how to choose",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
